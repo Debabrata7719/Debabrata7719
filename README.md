@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-# 💫 About Me:
+# 💫 Hey there !:
 🔭 I’m currently working on AI-powered Meeting Intelligence System that converts meetings into transcripts, summaries, highlights, and chat-based insights using LLMs<br>🤝 I’m looking to collaborate on AI/ML, LLM, RAG, and FastAPI backend projects<br>🛠️ I’m looking for help with MLOps, scalable deployment, and production-ready AI systems<br>🌱 I’m currently learning Data Science, LangChain, Vector Databases, and LLM engineering<br>💬 Ask me about Python, FastAPI, Whisper, ChromaDB, RAG pipelines, and building end-to-end AI apps<br>⚡ Fun fact: I love turning real-life problems into AI tools — my meeting app can literally “remember” meetings better than humans 😄
 
 
